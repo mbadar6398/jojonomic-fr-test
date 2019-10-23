@@ -1,0 +1,5 @@
+<template>
+    <footer>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, recusandae?</p>
+    </footer>
+</template>
